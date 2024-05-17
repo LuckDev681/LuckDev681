@@ -3,7 +3,7 @@
 <br>
 
 <div align="left" style = "display: flex; align-items: center;">
-  <h3>Toward the radiant glow of the Lucky Ray! With you... With me...</h3>
+  <h3>Toward the radiant glow of LuckDev681! With you... With me...</h3>
 </div>
 
 <br />
